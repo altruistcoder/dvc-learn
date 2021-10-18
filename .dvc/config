@@ -1,0 +1,3 @@
+['remote "dvcremote"']
+    url = s3://s3-rishabh.aggarwal2-3e670edd-b8c1-44cf-8849-4d3844dd7d63/dvc-learn/
+    endpointurl = https://s3-rook-ceph.apps.ai.innerdata.ml
